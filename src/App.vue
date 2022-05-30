@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import Base from "@/components/Base";
+import Base from "@/Base";
 
 export default {
   name: 'App',
   components: {
     Base
-  }
+  },
 }
 </script>
 
